@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Hello World Demo</string>
+    <string name="address">address</string>
+    <string name="welcome">welcome</string>
+    <string name="toFMReps">find my reps</string>
+    <string name="toLeg">find leg</string>
+    <string name="toVote">voting info</string>
+    <string name="title_activity_try3">Try3</string>
+    <string name="tab_text_1">Frag1</string>
+    <string name="tab_text_2">Frag2</string>
+    <string name="tab_text_3">Frag3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="importance_header">Why should I vote?</string>
+    <string name="importance_info">Voting helps keep the government accountable and representative.</string>
+    <string name="rules_header">How do I vote?</string>
+    <string name="rules_info">1. Check your eligibility. \n\n
+        You are eligible to vote if you will be 18+ by election day, are a US citizen, meet your state\'s residency requirements,
+        and are registered by your state\'s voter registration deadline.
+        In some states, you still may not be eligible to vote if you have been convicted of a felony or are mentally incapacitated
+        (please check with your state elections office). \n \n\n
+        2. Check your registration. \n\n
+        If you are under 18, you can pre-register to vote in some jurisdictions.
+
+
+    </string>
+    <string name="check_registration">Voter Registration status</string>
+    <string name="register_to_vote">Register to vote</string>
+    <string name="rules_cont">3. Submit your ballot before the deadline. \n\n
+        Visit the \"find my polling place\" tab to find ballot boxes and polls and refer to the timeline below for your jurisdiction\'s voting deadlines. </string>
+    <string name="find_my_deadlines">Find my voting deadlines</string>
+    <string name="streetLabel">Street</string>
+    <string name="cityLabel">City</string>
+    <string name="City">city</string>
+    <string name="state">state</string>
+    <string name="zipCode">Zip Code</string>
+</resources>
